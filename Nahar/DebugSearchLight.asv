@@ -1,0 +1,84 @@
+close all;
+
+%% load Data
+DataFolder = './';
+Pattern  = {'Curvature'};
+DrMethod = {'Isomap'};
+if ~exist('Data','var')
+    for i = 1:numel(Pattern)
+        load(fullfile(DataFolder,sprintf('all%s_S1200_1096_MSMAll_cdata.mat',Pattern{i})));
+        eval(sprintf('Data = transpose(all%s_MSMAll_cdata);',Pattern{i}));
+        eval(sprintf('clear all%s_MSMAll_cdata',Pattern{i}));
+    end
+else
+    clearvars -except Data
+end
+load('HemisphereIdx.mat');
+load('SearchLightIdx.mat');
+load('ClusteringResults.mat');
+%% Parameteres:
+CVFolds = 5;
+K = 5;
+
+%% Search Light
+% left hemisphere
+LeftData    = Data(:,HemisphereIdx(:,3)==1);
+nVertex     = size(LeftData,2);
+ClassLabels = LLabels;
+nClasses    = numel(unique(ClassLabels(ClassLabels~=0)));
+LeftMaps    = zeros(nVertex,nchoosek(nClasses,2));
+
+for i=1:nVertex
+    Patch = LeftData(:,LSearchLightIdx(i,:));
+    CVPerf = zeros(nClasses,nClasses);
+    for c1 = 1:nClasses
+        XC1 = Patch(ClassLabels==c1,:);
+        for c2 = (c1+1):nClasses
+            XC2 = Patch(ClassLabels==c2,:);
+            X  = [XC1;XC2];
+            Y  = [ones(size(XC1,1),1); 2*ones(size(XC2,1),1)];
+            Dists = squareform(pdist(X));
+            [~,Idx] = sort(Dists);
+            Neighbs = Idx(1:K,:);
+            NeighbsLabel = Y(Neighbs);
+            CVPerf(c1,c2) = mean(Y == Yfit);
+        end
+    end
+    LeftMaps(i,:) = squareform(CVPerf + CVPerf');
+    if mod(i,500)==0
+        disp(i);
+    end
+end
+save('SearchLightResults2','LeftMaps','LLabels');
+% Right Hemisphere
+nVertex     = size(XR,2);
+ClassLabels = RLabels(RLabels~=0);
+LeftData     = Data(RLabels~=0,HemisphereIdx(:,3)==2);
+nClasses    = numel(unique(ClassLabels));
+RightMaps   = zeros(nVertex,nchoosek(nClasses,2));
+
+parfor i=1:nVertex
+    Patch = LeftData(:,RSearchLightIdx(i,:));
+    CVPerf = zeros(nClasses,nClasses);
+    for c1 = 1:nClasses
+        Y1 = ClassLabels==c1;
+        XC1 = Patch(Y1,:);
+        for c2 = (c1+1):nClasses
+            Y2 = ClassLabels==c2;
+            XC2 = Patch(Y2,:);
+            X  = [XC1;XC2];
+            Y  = [zeros(size(XC1,1),1); ones(size(XC2,1),1)];
+            SVMModel = fitcsvm(X,Y,'Standardize',false,'KernelFunction','RBF',...
+                'KernelScale','auto');
+            CVSVMModel = crossval(SVMModel,'kfold',CVFolds);
+            Yfit  = kfoldPredict(CVSVMModel);
+            CVPerf(c1,c2) = mean(Y == Yfit);
+        end
+    end
+    RightMaps(i,:) = squareform(CVPerf + CVPerf');
+    if mod(i,500)==0
+        disp(i);
+    end
+end
+
+save('SearchLightResults2','LeftMaps','RightMaps','LLabels','RLabels');

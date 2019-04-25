@@ -1,0 +1,281 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  21 FEB 2019 16:39
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Document.tex
+(./Document.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/emptypage/emptypage.sty
+Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty 
+pages
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\captionmargin=\dimen103
+\captionmargin@=\dimen104
+\captionwidth=\dimen105
+\caption@tempdima=\dimen106
+\caption@indent=\dimen107
+\caption@parindent=\dimen108
+\caption@hangindent=\dimen109
+)
+\c@ContinuedFloat=\count88
+)
+\c@subfigure=\count89
+\c@subtable=\count90
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen110
+\Gin@req@width=\dimen111
+)
+(./Document.aux)
+\openout1 = `Document.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+(/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count91
+\scratchdimen=\dimen112
+\scratchbox=\box26
+\nofMPsegments=\count92
+\nofMParguments=\count93
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count94
+\MPscratchDim=\dimen113
+\MPnumerator=\count95
+\makeMPintoPDFobject=\count96
+\everyMPtoPDFconversion=\toks16
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+
+[1
+
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<Page1_Cropped.png, id=8, 2360.82pt x 2520.41624pt>
+File: Page1_Cropped.png Graphic file (type png)
+<use Page1_Cropped.png>
+Package pdftex.def Info: Page1_Cropped.png  used on input line 14.
+(pdftex.def)             Requested size: 517.5pt x 552.455pt.
+<Page2.png, id=10, 1284.7197pt x 802.9197pt>
+File: Page2.png Graphic file (type png)
+<use Page2.png>
+Package pdftex.def Info: Page2.png  used on input line 15.
+(pdftex.def)             Requested size: 621.00105pt x 388.11691pt.
+
+Overfull \vbox (2.455pt too high) has occurred while \output is active []
+
+ [1 <./Page1_Cropped.png>]
+<Page3_1.png, id=16, 1284.7197pt x 802.9197pt>
+File: Page3_1.png Graphic file (type png)
+<use Page3_1.png>
+Package pdftex.def Info: Page3_1.png  used on input line 16.
+(pdftex.def)             Requested size: 413.99895pt x 258.74052pt.
+<Page3_2.png, id=17, 1284.7197pt x 802.9197pt>
+File: Page3_2.png Graphic file (type png)
+<use Page3_2.png>
+Package pdftex.def Info: Page3_2.png  used on input line 17.
+(pdftex.def)             Requested size: 413.99895pt x 258.74052pt.
+ [2 <./Page2.png (PNG copy)>]
+<Page4.png, id=21, 1284.7197pt x 802.9197pt>
+File: Page4.png Graphic file (type png)
+<use Page4.png>
+Package pdftex.def Info: Page4.png  used on input line 18.
+(pdftex.def)             Requested size: 621.00105pt x 388.11691pt.
+<Page5.png, id=22, 1284.7197pt x 802.9197pt>
+File: Page5.png Graphic file (type png)
+<use Page5.png>
+Package pdftex.def Info: Page5.png  used on input line 19.
+(pdftex.def)             Requested size: 621.00105pt x 388.11691pt.
+ [3 <./Page3_1.png (PNG copy)> <./Page3_2.png (PNG copy)>]
+<Page6_1.png, id=26, 1284.7197pt x 802.9197pt>
+File: Page6_1.png Graphic file (type png)
+<use Page6_1.png>
+Package pdftex.def Info: Page6_1.png  used on input line 20.
+(pdftex.def)             Requested size: 413.99895pt x 258.74052pt.
+ [4 <./Page4.png (PNG copy)>]
+<Page6_2.png, id=30, 1284.7197pt x 802.9197pt>
+File: Page6_2.png Graphic file (type png)
+<use Page6_2.png>
+Package pdftex.def Info: Page6_2.png  used on input line 21.
+(pdftex.def)             Requested size: 413.99895pt x 258.74052pt.
+ [5 <./Page5.png (PNG copy)>]
+<Page7.png, id=34, 1284.7197pt x 802.9197pt>
+File: Page7.png Graphic file (type png)
+<use Page7.png>
+Package pdftex.def Info: Page7.png  used on input line 22.
+(pdftex.def)             Requested size: 621.00105pt x 388.11691pt.
+<Page8.png, id=35, 1284.7197pt x 802.9197pt>
+File: Page8.png Graphic file (type png)
+<use Page8.png>
+Package pdftex.def Info: Page8.png  used on input line 23.
+(pdftex.def)             Requested size: 621.00105pt x 388.11691pt.
+ [6 <./Page6_1.png (PNG copy)> <./Page6_2.png (PNG copy)>]
+<Page9_1.png, id=40, 1284.7197pt x 802.9197pt>
+File: Page9_1.png Graphic file (type png)
+<use Page9_1.png>
+Package pdftex.def Info: Page9_1.png  used on input line 24.
+(pdftex.def)             Requested size: 413.99895pt x 258.74052pt.
+ [7 <./Page7.png (PNG copy)>]
+<Page9_2.png, id=44, 1284.7197pt x 802.9197pt>
+File: Page9_2.png Graphic file (type png)
+<use Page9_2.png>
+Package pdftex.def Info: Page9_2.png  used on input line 25.
+(pdftex.def)             Requested size: 413.99895pt x 258.74052pt.
+ [8 <./Page8.png (PNG copy)>]
+<Page10.png, id=48, 1284.7197pt x 802.9197pt>
+File: Page10.png Graphic file (type png)
+<use Page10.png>
+Package pdftex.def Info: Page10.png  used on input line 26.
+(pdftex.def)             Requested size: 621.00105pt x 388.11691pt.
+<Page11_1.png, id=49, 1284.7197pt x 802.9197pt>
+File: Page11_1.png Graphic file (type png)
+<use Page11_1.png>
+Package pdftex.def Info: Page11_1.png  used on input line 27.
+(pdftex.def)             Requested size: 413.99895pt x 258.74052pt.
+ [9 <./Page9_1.png (PNG copy)> <./Page9_2.png (PNG copy)>]
+<Page11_2.png, id=53, 1284.7197pt x 802.9197pt>
+File: Page11_2.png Graphic file (type png)
+<use Page11_2.png>
+Package pdftex.def Info: Page11_2.png  used on input line 28.
+(pdftex.def)             Requested size: 413.99895pt x 258.74052pt.
+ [10 <./Page10.png (PNG copy)>] [11 <./Page11_1.png (PNG copy)> <./Page11_2.png
+ (PNG copy)>] (./Document.aux) ) 
+Here is how much of TeX's memory you used:
+ 2631 strings out of 492649
+ 42212 string characters out of 6129622
+ 94079 words of memory out of 5000000
+ 6497 multiletter control sequences out of 15000+600000
+ 6675 words of font info for 24 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,6n,40p,282b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2018/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr17.pfb>
+Output written on Document.pdf (12 pages, 5583653 bytes).
+PDF statistics:
+ 72 PDF objects out of 1000 (max. 8388607)
+ 38 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+

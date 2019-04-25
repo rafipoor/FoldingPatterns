@@ -1,0 +1,344 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  25 MAR 2019 18:35
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Document2.tex
+(./Document2.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/emptypage/emptypage.sty
+Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty 
+pages
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\captionmargin=\dimen103
+\captionmargin@=\dimen104
+\captionwidth=\dimen105
+\caption@tempdima=\dimen106
+\caption@indent=\dimen107
+\caption@parindent=\dimen108
+\caption@hangindent=\dimen109
+)
+\c@ContinuedFloat=\count88
+)
+\c@subfigure=\count89
+\c@subtable=\count90
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen110
+\Gin@req@width=\dimen111
+)
+(./Document2.aux)
+\openout1 = `Document2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+(/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count91
+\scratchdimen=\dimen112
+\scratchbox=\box26
+\nofMPsegments=\count92
+\nofMParguments=\count93
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count94
+\MPscratchDim=\dimen113
+\MPnumerator=\count95
+\makeMPintoPDFobject=\count96
+\everyMPtoPDFconversion=\toks16
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 16.
+
+[1
+
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<RSAModels_Curvature_Left.png, id=8, 1284.7197pt x 652.3572pt>
+File: RSAModels_Curvature_Left.png Graphic file (type png)
+<use RSAModels_Curvature_Left.png>
+Package pdftex.def Info: RSAModels_Curvature_Left.png  used on input line 23.
+(pdftex.def)             Requested size: 276.00105pt x 140.14456pt.
+<RSAHists_Curvature_Left.png, id=9, 1284.7197pt x 652.3572pt>
+File: RSAHists_Curvature_Left.png Graphic file (type png)
+<use RSAHists_Curvature_Left.png>
+Package pdftex.def Info: RSAHists_Curvature_Left.png  used on input line 24.
+(pdftex.def)             Requested size: 276.00105pt x 140.14456pt.
+<RSAMaps_Curvature_Left.png, id=10, 1284.7197pt x 652.3572pt>
+File: RSAMaps_Curvature_Left.png Graphic file (type png)
+<use RSAMaps_Curvature_Left.png>
+Package pdftex.def Info: RSAMaps_Curvature_Left.png  used on input line 25.
+(pdftex.def)             Requested size: 345.0pt x 175.1832pt.
+
+[2 <./RSAModels_Curvature_Left.png (PNG copy)> <./RSAHists_Curvature_Left.png (
+PNG copy)> <./RSAMaps_Curvature_Left.png (PNG copy)>]
+<RSAModels_Curvature_Right.png, id=16, 770.88pt x 523.2348pt>
+File: RSAModels_Curvature_Right.png Graphic file (type png)
+<use RSAModels_Curvature_Right.png>
+Package pdftex.def Info: RSAModels_Curvature_Right.png  used on input line 29.
+(pdftex.def)             Requested size: 241.49895pt x 163.91765pt.
+<RSAHists_Curvature_Right.png, id=17, 770.88pt x 523.2348pt>
+File: RSAHists_Curvature_Right.png Graphic file (type png)
+<use RSAHists_Curvature_Right.png>
+Package pdftex.def Info: RSAHists_Curvature_Right.png  used on input line 30.
+(pdftex.def)             Requested size: 241.49895pt x 163.91765pt.
+<RSAMaps_Curvature_Right.png, id=18, 770.88pt x 523.2348pt>
+File: RSAMaps_Curvature_Right.png Graphic file (type png)
+<use RSAMaps_Curvature_Right.png>
+Package pdftex.def Info: RSAMaps_Curvature_Right.png  used on input line 31.
+(pdftex.def)             Requested size: 310.4979pt x 210.75127pt.
+ [3 <./RSAModels_Curvature_Right.png (PNG copy)> <./RSAHists_Curvature_Right.pn
+g (PNG copy)> <./RSAMaps_Curvature_Right.png (PNG copy)>]
+<LowDReps_Thickness_pca.png, id=22, 1284.7197pt x 729.6861pt>
+File: LowDReps_Thickness_pca.png Graphic file (type png)
+<use LowDReps_Thickness_pca.png>
+Package pdftex.def Info: LowDReps_Thickness_pca.png  used on input line 36.
+(pdftex.def)             Requested size: 345.0pt x 195.949pt.
+<LowDReps_Curvature_pca.png, id=23, 1284.7197pt x 729.6861pt>
+File: LowDReps_Curvature_pca.png Graphic file (type png)
+<use LowDReps_Curvature_pca.png>
+Package pdftex.def Info: LowDReps_Curvature_pca.png  used on input line 38.
+(pdftex.def)             Requested size: 345.0pt x 195.949pt.
+<LowDReps_Sulc_pca.png, id=24, 1284.7197pt x 729.6861pt>
+File: LowDReps_Sulc_pca.png Graphic file (type png)
+<use LowDReps_Sulc_pca.png>
+Package pdftex.def Info: LowDReps_Sulc_pca.png  used on input line 40.
+(pdftex.def)             Requested size: 345.0pt x 195.949pt.
+ [4 <./LowDReps_Thickness_pca.png (PNG copy)> <./LowDReps_Curvature_pca.png (PN
+G copy)> <./LowDReps_Sulc_pca.png (PNG copy)>]
+<Thickness_Univ_Map_Left.png, id=28, 1284.7197pt x 652.3572pt>
+File: Thickness_Univ_Map_Left.png Graphic file (type png)
+<use Thickness_Univ_Map_Left.png>
+Package pdftex.def Info: Thickness_Univ_Map_Left.png  used on input line 43.
+(pdftex.def)             Requested size: 413.99895pt x 210.22182pt.
+<Thickness_Univ_Map_Right.png, id=29, 1284.7197pt x 729.6861pt>
+File: Thickness_Univ_Map_Right.png Graphic file (type png)
+<use Thickness_Univ_Map_Right.png>
+Package pdftex.def Info: Thickness_Univ_Map_Right.png  used on input line 44.
+(pdftex.def)             Requested size: 413.99895pt x 235.14102pt.
+
+[5 <./Thickness_Univ_Map_Left.png (PNG copy)> <./Thickness_Univ_Map_Right.png (
+PNG copy)>]
+<ThicknessHistograms_Left.png, id=33, 1284.7197pt x 729.6861pt>
+File: ThicknessHistograms_Left.png Graphic file (type png)
+<use ThicknessHistograms_Left.png>
+Package pdftex.def Info: ThicknessHistograms_Left.png  used on input line 48.
+(pdftex.def)             Requested size: 413.99895pt x 235.14102pt.
+<Thickness_Map_Left.png, id=34, 1284.7197pt x 729.6861pt>
+File: Thickness_Map_Left.png Graphic file (type png)
+<use Thickness_Map_Left.png>
+Package pdftex.def Info: Thickness_Map_Left.png  used on input line 49.
+(pdftex.def)             Requested size: 413.99895pt x 235.14102pt.
+ [6 <./ThicknessHistograms_Left.png (PNG copy)> <./Thickness_Map_Left.png (PNG 
+copy)>]
+<ThicknessHistograms_Right.png, id=38, 1284.7197pt x 729.6861pt>
+File: ThicknessHistograms_Right.png Graphic file (type png)
+<use ThicknessHistograms_Right.png>
+Package pdftex.def Info: ThicknessHistograms_Right.png  used on input line 53.
+(pdftex.def)             Requested size: 413.99895pt x 235.14102pt.
+<Thickness_Map_Right.png, id=39, 1284.7197pt x 729.6861pt>
+File: Thickness_Map_Right.png Graphic file (type png)
+<use Thickness_Map_Right.png>
+Package pdftex.def Info: Thickness_Map_Right.png  used on input line 54.
+(pdftex.def)             Requested size: 413.99895pt x 235.14102pt.
+ [7 <./ThicknessHistograms_Right.png (PNG copy)> <./Thickness_Map_Right.png (PN
+G copy)>]
+<Curvature_LibSVM_Histograms_Left.png, id=44, 1284.7197pt x 652.3572pt>
+File: Curvature_LibSVM_Histograms_Left.png Graphic file (type png)
+<use Curvature_LibSVM_Histograms_Left.png>
+Package pdftex.def Info: Curvature_LibSVM_Histograms_Left.png  used on input li
+ne 58.
+(pdftex.def)             Requested size: 413.99895pt x 210.22182pt.
+<Curvature_LibSVM_Map_Left.png, id=45, 1284.7197pt x 652.3572pt>
+File: Curvature_LibSVM_Map_Left.png Graphic file (type png)
+<use Curvature_LibSVM_Map_Left.png>
+Package pdftex.def Info: Curvature_LibSVM_Map_Left.png  used on input line 59.
+(pdftex.def)             Requested size: 413.99895pt x 210.22182pt.
+ [8 <./Curvature_LibSVM_Histograms_Left.png (PNG copy)> <./Curvature_LibSVM_Map
+_Left.png (PNG copy)>]
+<Curvature_LibSVM_Histograms_Right.png, id=49, 1284.7197pt x 652.3572pt>
+File: Curvature_LibSVM_Histograms_Right.png Graphic file (type png)
+<use Curvature_LibSVM_Histograms_Right.png>
+Package pdftex.def Info: Curvature_LibSVM_Histograms_Right.png  used on input l
+ine 62.
+(pdftex.def)             Requested size: 413.99895pt x 210.22182pt.
+<Curvature_LibSVM_Map_Right.png, id=50, 1284.7197pt x 652.3572pt>
+File: Curvature_LibSVM_Map_Right.png Graphic file (type png)
+<use Curvature_LibSVM_Map_Right.png>
+Package pdftex.def Info: Curvature_LibSVM_Map_Right.png  used on input line 63.
+
+(pdftex.def)             Requested size: 413.99895pt x 210.22182pt.
+ [9 <./Curvature_LibSVM_Histograms_Right.png (PNG copy)> <./Curvature_LibSVM_Ma
+p_Right.png (PNG copy)>]
+<RSAModels_Thickness_Left.png, id=54, 1284.7197pt x 729.6861pt>
+File: RSAModels_Thickness_Left.png Graphic file (type png)
+<use RSAModels_Thickness_Left.png>
+Package pdftex.def Info: RSAModels_Thickness_Left.png  used on input line 69.
+(pdftex.def)             Requested size: 276.00105pt x 156.75697pt.
+<RSAHists_Thickness_Left.png, id=55, 1284.7197pt x 729.6861pt>
+File: RSAHists_Thickness_Left.png Graphic file (type png)
+<use RSAHists_Thickness_Left.png>
+Package pdftex.def Info: RSAHists_Thickness_Left.png  used on input line 70.
+(pdftex.def)             Requested size: 276.00105pt x 156.75697pt.
+<RSAMaps_Thickness_Left.png, id=56, 1284.7197pt x 729.6861pt>
+File: RSAMaps_Thickness_Left.png Graphic file (type png)
+<use RSAMaps_Thickness_Left.png>
+Package pdftex.def Info: RSAMaps_Thickness_Left.png  used on input line 71.
+(pdftex.def)             Requested size: 345.0pt x 195.949pt.
+
+[10 <./RSAModels_Thickness_Left.png (PNG copy)> <./RSAHists_Thickness_Left.png 
+(PNG copy)> <./RSAMaps_Thickness_Left.png (PNG copy)>]
+<RSAModels_Thickness_Right.png, id=60, 1284.7197pt x 729.6861pt>
+File: RSAModels_Thickness_Right.png Graphic file (type png)
+<use RSAModels_Thickness_Right.png>
+Package pdftex.def Info: RSAModels_Thickness_Right.png  used on input line 76.
+(pdftex.def)             Requested size: 276.00105pt x 156.75697pt.
+<RSAHists_Thickness_Right.png, id=61, 1284.7197pt x 729.6861pt>
+File: RSAHists_Thickness_Right.png Graphic file (type png)
+<use RSAHists_Thickness_Right.png>
+Package pdftex.def Info: RSAHists_Thickness_Right.png  used on input line 77.
+(pdftex.def)             Requested size: 276.00105pt x 156.75697pt.
+<RSAMaps_Thickness_Right.png, id=62, 1284.7197pt x 729.6861pt>
+File: RSAMaps_Thickness_Right.png Graphic file (type png)
+<use RSAMaps_Thickness_Right.png>
+Package pdftex.def Info: RSAMaps_Thickness_Right.png  used on input line 78.
+(pdftex.def)             Requested size: 345.0pt x 195.949pt.
+ [11 <./RSAModels_Thickness_Right.png (PNG copy)> <./RSAHists_Thickness_Right.p
+ng (PNG copy)> <./RSAMaps_Thickness_Right.png (PNG copy)>] (./Document2.aux) ) 
+Here is how much of TeX's memory you used:
+ 2684 strings out of 492649
+ 45100 string characters out of 6129622
+ 94103 words of memory out of 5000000
+ 6539 multiletter control sequences out of 15000+600000
+ 7280 words of font info for 26 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,6n,40p,308b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
+<
+/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
+usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
+r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
+local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on Document2.pdf (11 pages, 26779285 bytes).
+PDF statistics:
+ 81 PDF objects out of 1000 (max. 8388607)
+ 38 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
+
